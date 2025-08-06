@@ -1,3 +1,2 @@
-# Template Mod
-
-Edit about.md to change this
+# Soft reset
+Please don't use this
